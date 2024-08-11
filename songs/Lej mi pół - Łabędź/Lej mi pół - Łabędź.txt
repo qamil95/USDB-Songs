@@ -8,7 +8,7 @@
 #VIDEO:Lej mi pół - Łabędź.mp4
 #START:23.1
 #BPM:228.02
-#GAP:32130
+#GAP:31950
 F 0 11 9 Hu 
 - 13
 F 32 12 17 Haj 
