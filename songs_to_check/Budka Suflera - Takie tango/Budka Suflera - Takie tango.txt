@@ -8,7 +8,7 @@
 #COVER:Budka Suflera - Takie tango [CO].jpg
 #VIDEO:Budka Suflera - Takie tango.mp4
 #BPM:225.2
-#GAP:29175
+#GAP:23600
 : 0 3 9 Na 
 : 4 3 14 sa
 : 8 2 16 li 
