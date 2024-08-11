@@ -1,0 +1,8 @@
+https://usdb.animux.de/?link=detail&id=12507 - changed GAP (added comment)
+https://usdb.animux.de/?link=detail&id=2875 - changed GAP, lowered whole noted (txt attached)
+Sprawdzić czy powyższe są zaktualizowane
+
+
+Łabędzie - GAP 31950 ??? sprawdzić poprawić na stronie i elo
+
+POTEM INITIAL COMMIT GIT
