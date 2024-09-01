@@ -18,11 +18,11 @@ https://usdb.animux.de/?link=detail&id=13437 - Elektryczne Gitary - Co ty tutaj 
 https://usdb.animux.de/?link=detail&id=11548 - T.Love - I Love You - changed GAP to 36680 (see comments on usdb)
 https://usdb.animux.de/?link=detail&id=25408 - Ich Troje - Keine Grenzen - Zadnych granic - doubled resolution, synced introduction, minor changes
 
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
+https://usdb.animux.de/?link=detail&id=11454 - Marek Kondrat & Marlena Drozdowska - Mydełko Fa - changed GAP to 30300. Link to video (stay with current audio): https://www.youtube.com/watch?v=dzivgh9anG0 #VIDEOGAP:-5,2
+https://usdb.animux.de/?link=detail&id=11258 - Big Cyc - Dres - changed GAP to 53450
+https://usdb.animux.de/?link=detail&id=11329 - Sami - Lato 2000 - changed GAP to 43490
+https://usdb.animux.de/?link=detail&id=12503 - IRA - Ikar - changed GAP to 22450, but notes should be transposed (are too high, from different octaves)
+https://usdb.animux.de/?link=detail&id=14338 - Artur Gadowski - Ona jest ze snu - changed GAP to 27750
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
