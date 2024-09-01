@@ -1,1 +1,12 @@
-https://usdb.animux.de/?link=detail&id=26848 - changed GAP to 31950
+https://usdb.animux.de/?link=detail&id=26848 - Lej mi pół - Łabędź - changed GAP to 31950 (also added comment)
+
+https://usdb.animux.de/?link=detail&id=24972 - Akcent - Chłopak z Gitarą - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=24816 - Akcent - Królowa nocy - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=21208 - Anna Jantar - Nic nie może wiecznie trwać - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=11706 - Lady Pank - Dziewczyny z byle kim nie tańczą - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=6807 - Doda - Dziękuję - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=11488 - Elektryczne Gitary - Jestem z miasta - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=26438 - Disney’s Pocahontas (Edyta Górniak) - Kolorowy Wiatr - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=13113 - Anna Jantar - Tyle słońca w całym mieście - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=13207 - Anna Maria Jopek - Joszko Broda - fixed question marks in place of polish chars
+https://usdb.animux.de/?link=detail&id=22426 - Bajm - Nie ma wody na pustyni - fixed question marks in place of polish chars
