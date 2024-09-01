@@ -13,10 +13,11 @@ https://usdb.animux.de/?link=detail&id=22426 - Bajm - Nie ma wody na pustyni - f
 
 https://usdb.animux.de/?link=detail&id=10892 - UEFA	- Champions League (Umyj Bidet) - added cover (see comments on usdb)
 https://usdb.animux.de/?link=detail&id=16180 - Beata Kozidrak - Rzeka marzeń - changed GAP to 21120 (see comments on usdb)
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
+https://usdb.animux.de/?link=detail&id=10933 - 2 Plus 1 - Chodź, pomaluj mój świat - changed GAP to 1320 (see comments on usdb)
+https://usdb.animux.de/?link=detail&id=13437 - Elektryczne Gitary - Co ty tutaj robisz - changed GAP to 28820, added new video and audio links (see comments on usdb)
+https://usdb.animux.de/?link=detail&id=11548 - T.Love - I Love You - changed GAP to 36680 (see comments on usdb)
+https://usdb.animux.de/?link=detail&id=25408 - Ich Troje - Keine Grenzen - Zadnych granic - doubled resolution, synced introduction, minor changes
+
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
