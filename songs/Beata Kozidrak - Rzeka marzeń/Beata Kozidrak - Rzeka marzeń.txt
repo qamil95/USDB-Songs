@@ -7,7 +7,7 @@
 #COVER:Beata Kozidrak - Rzeka marzeń [CO].jpg
 #VIDEO:Beata Kozidrak - Rzeka marzeń.mp4
 #BPM:323.41
-#GAP:17990
+#GAP:21120
 : 0 4 17 Os
 : 8 4 17 tat
 : 16 4 17 ni 
