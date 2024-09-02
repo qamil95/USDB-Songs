@@ -1,6 +1,7 @@
 #TITLE:Życie to są chwile
 #ARTIST:Akcent
 #LANGUAGE:Polish
+#GENRE:Disco Polo
 #YEAR:1994
 #CREATOR:rote_rose
 #MP3:Akcent - Życie to są chwile.mp3

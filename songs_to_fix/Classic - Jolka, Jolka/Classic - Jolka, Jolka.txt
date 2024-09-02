@@ -1,7 +1,7 @@
 #TITLE:Jolka, Jolka
 #ARTIST:Classic
 #LANGUAGE:Polish
-#GENRE:Polo Disco
+#GENRE:Disco Polo
 #YEAR:1996
 #CREATOR:rote_rose
 #MP3:Classic - Jolka, Jolka.mp3
