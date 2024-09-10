@@ -39,7 +39,7 @@ https://usdb.animux.de/?link=detail&id=2864 - Sixteen - Obudź we mnie Wenus - c
 https://usdb.animux.de/?link=detail&id=6296 - Kombii - Awinion - change GAP to 27700
 https://usdb.animux.de/?link=detail&id=11973 - Big Cyc - Słoneczny patrol - change GAP to 7650
 
-https://usdb.animux.de/?link=detail&id=
+https://usdb.animux.de/?link=detail&id=11546 - T.Love - Polish Boyfriend - changed GAP to 4900, fixed Polish chars in text
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
