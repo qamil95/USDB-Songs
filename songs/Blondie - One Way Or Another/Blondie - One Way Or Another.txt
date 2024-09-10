@@ -4,6 +4,7 @@
 #YEAR:1978
 #CREATOR:superkathi
 #MP3:Blondie - One Way Or Another.mp3
+#COVER:Blondie - One Way Or Another [CO].jpg
 #VIDEO:Blondie - One Way Or Another.mp4
 #BPM:326
 #GAP:1900

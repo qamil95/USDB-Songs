@@ -5,6 +5,7 @@
 #YEAR:1996
 #CREATOR:rafallus
 #MP3:Lizar - Ciagle pada.mp3
+#COVER:Lizar - Ciagle pada [CO].jpg
 #BPM:342.6
 #GAP:5520
 #P1:P1
