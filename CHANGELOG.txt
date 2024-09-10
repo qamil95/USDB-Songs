@@ -38,8 +38,8 @@ https://usdb.animux.de/?link=detail&id=24888 - Budka Suflera - Takie tango - cha
 https://usdb.animux.de/?link=detail&id=2864 - Sixteen - Obudź we mnie Wenus - change GAP to 12500, add video https://www.youtube.com/watch?v=xpJMxi7jGXQ with #VIDEOGAP:-5,1
 https://usdb.animux.de/?link=detail&id=6296 - Kombii - Awinion - change GAP to 27700
 https://usdb.animux.de/?link=detail&id=11973 - Big Cyc - Słoneczny patrol - change GAP to 7650
+https://usdb.animux.de/?link=detail&id=24883 - Bajm - Biała armia - change GAP to 42000, add video https://www.youtube.com/watch?v=AAqRF5F2Kq0 with #VIDEOGAP:0.5
 
-https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
