@@ -49,7 +49,7 @@ https://usdb.animux.de/?link=detail&id=12088 - De Mono - Statki na niebie - chan
 https://usdb.animux.de/?link=detail&id=2945 - Myslovitz - Długość dźwięku samotności - change GAP to 43900, change START to 25.0, unfortunately diacritics are missing, but at least there are e.g. "a" instead of "ą", not question marks
 https://usdb.animux.de/?link=detail&id=20870 - Amy Macdonald - Slow It Down - change GAP to 17550, potentially start to 3.0
 https://usdb.animux.de/?link=detail&id=13207 - Anna Maria Jopek - Joszko Broda - change GAP to 10700
-https://usdb.animux.de/?link=detail&id=
+https://usdb.animux.de/?link=detail&id=95 - Anna Jantar - Moje jedyne marzenie - Add Video https://www.youtube.com/watch?v=IkX6VhTo8Ac with #VIDEOGAP:-1.5, stay with current audio
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
