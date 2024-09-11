@@ -40,12 +40,12 @@ https://usdb.animux.de/?link=detail&id=6296 - Kombii - Awinion - change GAP to 2
 https://usdb.animux.de/?link=detail&id=11973 - Big Cyc - Słoneczny patrol - change GAP to 7650
 https://usdb.animux.de/?link=detail&id=24883 - Bajm - Biała armia - change GAP to 42000, add video https://www.youtube.com/watch?v=AAqRF5F2Kq0 with #VIDEOGAP:0.5
 
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
+https://usdb.animux.de/?link=detail&id=2887 - Arka Noego - Święty uśmiechnięty - change GAP to 19300
+https://usdb.animux.de/?link=detail&id=2671 - Bajm - Dziesięć przykazań - change GAP to 9000
+https://usdb.animux.de/?link=detail&id=12691 - Video - Środa Czwartek - change GAP to 3770
+https://usdb.animux.de/?link=detail&id=17979 - Myslovitz - Scenariusz dla moich sąsiadów - change GAP to 34500
+https://usdb.animux.de/?link=detail&id=13746 - Jamal feat. Jambojet & USPM - Policeman - change GAP to 7500
+https://usdb.animux.de/?link=detail&id=12088 - De Mono - Statki na niebie - change GAP to 28700
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
 https://usdb.animux.de/?link=detail&id=
