@@ -50,10 +50,6 @@ https://usdb.animux.de/?link=detail&id=2945 - Myslovitz - Długość dźwięku s
 https://usdb.animux.de/?link=detail&id=20870 - Amy Macdonald - Slow It Down - change GAP to 17550, potentially start to 3.0
 https://usdb.animux.de/?link=detail&id=13207 - Anna Maria Jopek - Joszko Broda - change GAP to 10700
 https://usdb.animux.de/?link=detail&id=95 - Anna Jantar - Moje jedyne marzenie - Add Video https://www.youtube.com/watch?v=IkX6VhTo8Ac with #VIDEOGAP:-1.5, stay with current audio
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
-https://usdb.animux.de/?link=detail&id=
 
 https://usdb.animux.de/?link=detail&id=11546 - T.Love - Polish Boyfriend - changed GAP to 4900, fixed Polish chars in text
 https://usdb.animux.de/?link=detail&id=11088 - Andrzej Piaseczny - Śniadanie do łóżka - changed GAP to 13800, fixed Polish chars in text
